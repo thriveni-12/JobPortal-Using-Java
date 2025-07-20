@@ -1,0 +1,11 @@
+com\jobportal\servlet\LoginServlet.class
+com\jobportal\servlet\UpdateJobServlet.class
+com\jobportal\dao\DBConnect.class
+com\jobportal\dao\JobDAO.class
+com\jobportal\model\Job.class
+com\jobportal\dao\UserDAO.class
+com\jobportal\servlet\DeleteJobServlet.class
+com\jobportal\model\User.class
+com\jobportal\servlet\RegisterServlet.class
+com\jobportal\servlet\AddJobServlet.class
+com\jobportal\servlet\LogoutServlet.class
